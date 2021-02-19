@@ -59,3 +59,9 @@ section#latest .overlay i{
     opacity: 0;
     font-size: 2rem;
 }
+
+textarea {
+    resize: none;
+ }
+
+ 
